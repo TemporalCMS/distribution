@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/boehmod/LauncherRelease/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/boehmod/LauncherRelease/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/boehmod/LauncherRelease/releases.atom"/>
+  <title>Release notes from LauncherRelease</title>
+  <updated>2019-12-25T00:05:02Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/205458203/v1.1.0</id>
+    <updated>2019-12-25T00:25:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/boehmod/LauncherRelease/releases/tag/v1.1.0"/>
+    <title>BoehMod Launcher v1.1.0</title>
+    <content type="html">&lt;h2&gt;BoehMod Launcher - Release 1.1.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;g-emoji class=&quot;g-emoji&quot; alias=&quot;zombie_man&quot; fallback-src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/1f9df-2642.png&quot;&gt;🧟‍♂️&lt;/g-emoji&gt; Decimation Support! &lt;g-emoji class=&quot;g-emoji&quot; alias=&quot;tada&quot; fallback-src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/1f389.png&quot;&gt;🎉&lt;/g-emoji&gt;&lt;g-emoji class=&quot;g-emoji&quot; alias=&quot;tada&quot; fallback-src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/1f389.png&quot;&gt;🎉&lt;/g-emoji&gt;&lt;g-emoji class=&quot;g-emoji&quot; alias=&quot;tada&quot; fallback-src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/1f389.png&quot;&gt;🎉&lt;/g-emoji&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Changes since v1.0.1&lt;/h1&gt;
+&lt;p&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/d087ca5a606b645c0446ff4891f0a4b23289b7cc/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/d087ca5a606b645c0446ff4891f0a4b23289b7cc&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;d087ca5&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/da706813ba75b84adae87d288426b5ffaf24c8d1/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/da706813ba75b84adae87d288426b5ffaf24c8d1&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;da70681&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/90cd2c461414eace10a99238a3b5b0d163e19252/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/90cd2c461414eace10a99238a3b5b0d163e19252&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;90cd2c4&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/8b04f476eef5f46949c045aefeab0aa85a0d5139/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/8b04f476eef5f46949c045aefeab0aa85a0d5139&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;8b04f47&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/9761c1d9d0fe21218c111531d04b25dcc31d4f58/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/9761c1d9d0fe21218c111531d04b25dcc31d4f58&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;9761c1d&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/19ee187f102240643170e700745130c85f644921/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/19ee187f102240643170e700745130c85f644921&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;19ee187&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/3b49c6d166f31c2db464f038fb714d0a63dd1d25/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/3b49c6d166f31c2db464f038fb714d0a63dd1d25&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;3b49c6d&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/09d91d4a3b8f6041cfb682e179e7d3cb70d1ae70/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/09d91d4a3b8f6041cfb682e179e7d3cb70d1ae70&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;09d91d4&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/4d74a5b737f38a5048b663ebccbb5f2838e3e6a4/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/4d74a5b737f38a5048b663ebccbb5f2838e3e6a4&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;4d74a5b&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/2388ae32b254bd0475bfa732f76d5fa142f5f08a/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/2388ae32b254bd0475bfa732f76d5fa142f5f08a&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;2388ae3&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/b4ac78001bbaabee8437933d54373333b4865ecc/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/b4ac78001bbaabee8437933d54373333b4865ecc&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;b4ac780&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/15f897bed3dc989dc0f7353a6f00220e0e7aa564/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/15f897bed3dc989dc0f7353a6f00220e0e7aa564&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;15f897b&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/002db60cb2ab7143786466478b980fe8554926ac/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/002db60cb2ab7143786466478b980fe8554926ac&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;002db60&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/e4230741a078d2d7a8017289b4a7d5e4d98e9bb6/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/e4230741a078d2d7a8017289b4a7d5e4d98e9bb6&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;e423074&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/5ccb3750035007a5cc9666b47e1662f9d03de466/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/5ccb3750035007a5cc9666b47e1662f9d03de466&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;5ccb375&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/c8085ccd633c37973d4b99982c7bde5927f78a64/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/c8085ccd633c37973d4b99982c7bde5927f78a64&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;c8085cc&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/5fa79f16ad3f18c5d4f14a648caad9be57954b84/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/5fa79f16ad3f18c5d4f14a648caad9be57954b84&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;5fa79f1&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/c96f82b8a3a70c2cb87b7242c70ad04b1893ac55/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/c96f82b8a3a70c2cb87b7242c70ad04b1893ac55&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;c96f82b&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>jaacksondev</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/18062275?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/205458203/v1.0.1</id>
+    <updated>2019-12-24T23:37:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/boehmod/LauncherRelease/releases/tag/v1.0.1"/>
+    <title>BoehMod Launcher v1.0.1</title>
+    <content type="html">&lt;h2&gt;BoehMod Launcher - Release 1.0.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added new background to match BoehMod branding.&lt;/li&gt;
+&lt;li&gt;Added a notice for Decimation being unavailable.&lt;/li&gt;
+&lt;li&gt;Added full BoehMod logo on the welcome page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Changed BM icon on landing page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed old backgrounds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Changes since v1.0.0&lt;/h1&gt;
+&lt;p&gt;&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/b1d11ddb0b389a9e0dadbb76b79bd4e244f22019/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/b1d11ddb0b389a9e0dadbb76b79bd4e244f22019&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;b1d11dd&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/d1be47efa11dc5527ccaeff329557f6dbf2145a9/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/d1be47efa11dc5527ccaeff329557f6dbf2145a9&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;d1be47e&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/1132ed4747cf54fd3b727e25d06314dbcbfd7c83/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/1132ed4747cf54fd3b727e25d06314dbcbfd7c83&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;1132ed4&lt;/tt&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a class=&quot;commit-link&quot; data-hovercard-type=&quot;commit&quot; data-hovercard-url=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/1abca090b5d00bb6077dd1f2e0a972e2aa31cb17/hovercard&quot; href=&quot;https://github.com/boehmod/BoehMod-Launcher/commit/1abca090b5d00bb6077dd1f2e0a972e2aa31cb17&quot;&gt;boehmod/BoehMod-Launcher@&lt;tt&gt;1abca09&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>jaacksondev</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/18062275?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/205458203/v1.0.0</id>
+    <updated>2019-08-30T23:16:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/boehmod/LauncherRelease/releases/tag/v1.0.0"/>
+    <title>BoehMod Launcher v1.0.0</title>
+    <content type="html">&lt;p&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://camo.githubusercontent.com/acbf6f1b51a0a0513ce0f9845bc7d7fbfa88f81313ac66d847ed888c2d4732b4/68747470733a2f2f7777772e626f65686d6f642e636f6d2f696d672f6c6f6164696e672f6c61756e636865722d6c6f676f2e706e67&quot;&gt;&lt;img src=&quot;https://camo.githubusercontent.com/acbf6f1b51a0a0513ce0f9845bc7d7fbfa88f81313ac66d847ed888c2d4732b4/68747470733a2f2f7777772e626f65686d6f642e636f6d2f696d672f6c6f6164696e672f6c61756e636865722d6c6f676f2e706e67&quot; alt=&quot;launcher-logo&quot; data-canonical-src=&quot;https://www.boehmod.com/img/loading/launcher-logo.png&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;BoehMod Launcher - Release 1.0.0&lt;/h2&gt;
+&lt;h3&gt;A new way to play BoehMod.&lt;/h3&gt;
+&lt;p&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://camo.githubusercontent.com/1e4df5a57e64be38959c67646747c2fe0fb6949bb4d793e90059eb2246ebdc68/68747470733a2f2f7777772e626f65686d6f642e636f6d2f696d672f6c61756e636865722e706e67&quot;&gt;&lt;img src=&quot;https://camo.githubusercontent.com/1e4df5a57e64be38959c67646747c2fe0fb6949bb4d793e90059eb2246ebdc68/68747470733a2f2f7777772e626f65686d6f642e636f6d2f696d672f6c61756e636865722e706e67&quot; alt=&quot;LauncherScreenshot&quot; data-canonical-src=&quot;https://www.boehmod.com/img/launcher.png&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;m proud to announce the release of our new launcher. A fork of the ElectronLauncher by Daniel Scalzi, with a heavy emphasis on usability, the launcher aims to provide users with a seamless and downright elegant way to join any BoehMod modpack&lt;/p&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Full account management.
+&lt;ul&gt;
+&lt;li&gt;Add multiple accounts and easily switch between them.&lt;/li&gt;
+&lt;li&gt;Credentials are never stored and transmitted directly to Mojang.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Efficient asset management.
+&lt;ul&gt;
+&lt;li&gt;Receive client updates as soon as we release them.&lt;/li&gt;
+&lt;li&gt;Files are validated before launch. Corrupt or incorrect files will be redownloaded.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Powerful mod management.&lt;/li&gt;
+&lt;li&gt;&lt;g-emoji class=&quot;g-emoji&quot; alias=&quot;coffee&quot; fallback-src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/2615.png&quot;&gt;☕&lt;/g-emoji&gt; Automatic Java validation.
+&lt;ul&gt;
+&lt;li&gt;If you have an incompatible version of Java installed, we&#39;ll install the right one for you.&lt;/li&gt;
+&lt;li&gt;You do not need to have Java installed to run the launcher.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;News feed natively built into the launcher.&lt;/li&gt;
+&lt;li&gt;&lt;g-emoji class=&quot;g-emoji&quot; alias=&quot;gear&quot; fallback-src=&quot;https://github.githubassets.com/images/icons/emoji/unicode/2699.png&quot;&gt;⚙️&lt;/g-emoji&gt; Intuitive settings management, including a Java control panel.&lt;/li&gt;
+&lt;li&gt;Supports all of our servers. (Decimation is currently work in progress and will be released in a later build)
+&lt;ul&gt;
+&lt;li&gt;Switch between server configurations with ease.&lt;/li&gt;
+&lt;li&gt;View the player count of the selected server.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Automatic updates. That&#39;s right, the launcher updates itself.&lt;/li&gt;
+&lt;li&gt;View the status of Mojang&#39;s services.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>jaacksondev</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/18062275?s=60&amp;v=4"/>
+  </entry>
+</feed>
