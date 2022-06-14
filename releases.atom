@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
   <id>tag:github.com,2008:https://github.com/TemporalCMS/TemporalClient/releases</id>
   <link type="text/html" rel="alternate" href="https://github.com/TemporalCMS/TemporalClient/releases"/>
-  <link type="application/atom+xml" rel="self" href="https://github.com/TemporalCMS/TemporalClientRelease/releases.atom"/>
+  <link type="application/atom+xml" rel="self" href="https://raw.githubusercontent.com/TemporalCMS/distribution/main/releases.atom"/>
   <title>Release notes from LauncherRelease</title>
   <updated>2022-06-14T00:05:02Z</updated>
   <entry>
     <id>tag:github.com,2008:Repository/205458203/v1.1.</id>
-    <updated>2019-12-25T00:25:46Z</updated>
-    <link rel="alternate" type="text/html" href="https://github.com/boehmod/LauncherRelease/releases/tag/v1.1.0"/>
+    <updated>2022-06-14T00:05:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/TemporalCMS/TemporalClient/releases/tag/v1.1.0"/>
     <title>Temporal Client v1.0.0</title>
-    <content type="html">&lt;h2&gt;Temporal Client - Release 1.0.0&lt;/h2&gt;</content>
+    <content type="html"><h2>Temporal Client - Release 1.0.0</h2></content>
     <author>
       <name>Skogrine</name>
     </author>
